@@ -3,14 +3,6 @@
 
 🚀 **3+ years of experience** in designing, developing, and deploying **high-performance web & mobile applications** using MERN stack, React Native, TypeScript, SQL/NoSQL DBs, AWS, and scalable backend architectures.
 
-🌍 Based in **Jharkhand, India**  
-📧 Email: **rajeshatka4746@gmail.com**  
-🔗 Portfolio / Work: **scholarist.com**, **icgcanada.com**, **oichat.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/rajesh-kumar-72a573254  
-🔗 GitHub: https://github.com/rajeshkumar5295  
-
----
-
 ## 🔥 About Me
 
 - 🧩 Full Stack Developer skilled in **UI/UX engineering**, microservices, backend APIs, and mobile app architecture  
