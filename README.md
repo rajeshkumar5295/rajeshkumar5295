@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**rajeshkumar5295/rajeshkumar5295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <h3 align="center">Full Stack Developer (MERN | React Native | Node.js | AWS)</h3>
 
 🚀 **3+ years of experience** in designing, developing, and deploying **high-performance web & mobile applications** using MERN stack, React Native, TypeScript, SQL/NoSQL DBs, AWS, and scalable backend architectures.
@@ -120,10 +111,3 @@ JavaScript (ES6+) • TypeScript • C/C++ • Java
 ---
 
 ⭐ **If you like my work, consider giving my repositories a star!**
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
